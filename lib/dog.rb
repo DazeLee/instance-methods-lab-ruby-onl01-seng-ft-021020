@@ -1,11 +1,11 @@
-class Dog class Dog
+class Dog 
   def bark
     puts "Woof!"
   end
 end
  
-fido = Dog.new
-fido.bark #> "Woof!"
+ dog= Dog.new
+.bark #> "Woof!"
   
 
 
